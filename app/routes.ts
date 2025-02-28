@@ -9,10 +9,10 @@ export default [
     path: "/about",
     file: "routes/about.tsx"
   },
-//   {
-//     path: "/projects",
-//     file: "routes/projects.tsx"
-//   },
+  {
+    path: "/projects",
+    file: "routes/projects.tsx"
+  },
 //   {
 //     path: "/contact",
 //     file: "routes/contact.tsx"
