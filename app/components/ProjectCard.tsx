@@ -1,6 +1,6 @@
 import { type Project } from "../data/projects";
 import { motion, AnimatePresence } from "framer-motion";
-import { useState } from "react";
+import React, { useState } from "react";
 
 interface ProjectCardProps {
   project: Project;
